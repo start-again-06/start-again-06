@@ -21,6 +21,8 @@ Project Management: Slack, Jira, Asana, Agile Methodologies.
 General Skills: Data Visualization, Data Science, Operation Analytics.
 
 Currently, I am exploring dynamic website-making, more on business analytics, Artificial Intelligence and Smoothed Particle Hydrodynamics.
+
+Target for this year: CFA L1 (Certified Financial Analyst L1) and CAPM (Certified Associate in Project Management)
 <!---
 start-again-06/start-again-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
