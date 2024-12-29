@@ -4,7 +4,7 @@ Just started sharing my hidden projects with mindful people.
 Love talking and exploring new things, updating myself with new advancements.
 Currently exploring the field of inverse problems, scientific machine learning, and integration of it with conventional mechanical Engineering.
 Seasonal Competitive Coder (Yaar maza aata hai kabhi kabhi :))
-
+                                                                                                
 Technical Skills:
 
 Programming language: C, C++, C#, Rstudios, GoLang, Rust, Python, Scala.
