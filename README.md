@@ -1,6 +1,6 @@
 Hi GitHub Community,
 
-I’ve recently started sharing some of my hidden projects with like-minded individuals. I enjoy discussing and discovering new concepts, as well as keeping up with the latest advancements. Currently, I’m delving into inverse problems, scientific machine learning, and their integration with traditional mechanical engineering. I’m also an occasional competitive coder—because hey, it’s fun sometimes! 😊
+I’ve recently started sharing some of my projects with like-minded individuals. I enjoy discussing and discovering new concepts, as well as keeping up with the latest advancements. Currently, I’m delving into inverse problems, scientific machine learning, and their integration with traditional mechanical engineering. I’m also an occasional competitive coder—because hey, it’s fun sometimes! 😊
 
 Technical Skills:
 
