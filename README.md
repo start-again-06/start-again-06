@@ -9,7 +9,7 @@ Frameworks: React.js, Node.js, PyTorch, TensorFlow, Keras, Pandas, NumPy, CUDA, 
 Markup Languages: HTML, CSS, Hugo
 CAD Software: SolidWorks, CATIA V5, Autodesk Fusion 360, Onshape
 Simulation Tools: Ansys Products (ICEPak, ICEM, APDL, LSDyna), Altair Products (HyperWorks, HyperMesh), COMSOL, Star-CCM+, Converge, MSC-Nastran, MSC-Patran, MSC-Adams, Optimum Kinematics, IPG-CarMaker, OpenFOAM
-Other Languages for Mechanical Applications: GNU Octave, Julia, MATLAB, Simulink, Auto-MSIM
+Other Languages for Mechanical Applications: GNU Octave, Julia, MATLAB, Simulink, Auto-MSIM, Openfoam
 Specialized Skills: ANN, GAN, RNN, PINN, GNN, Reinforcement Learning, Time-Series Analysis, CNN, Scientific Machine Learning
 Business Analytics: Power BI, Tableau, Advanced Excel, Credit Risk Modeling, Investment Modeling, PostgreSQL, MySQL, Snowflake, Hadoop, Customer Analytics
 Project Management: Slack, Jira, Asana, Agile Methodologies
