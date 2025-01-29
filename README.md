@@ -24,8 +24,9 @@ HTML, CSS, Hugo
 🔹 CAD & Simulation Tools:
 CAD: SolidWorks, CATIA V5, Autodesk Fusion 360, Onshape
 Simulation: Ansys (ICEPak, ICEM, APDL, LSDyna), Altair HyperWorks, COMSOL, Star-CCM+, Converge, OpenFOAM, Lotus Shark Analysis, IPGCarMaker, Altair HyperMesh
+
 🔹 AI/ML Specialization
-ANN, GAN, RNN, PINN, GNN, CNN, Reinforcement Learning, Time-Series Analysis, Scientific ML, Sequence Model
+ANNs, GANs, RNNs, PINNs, GNNs, CNNs, Reinforcement Learning, Time-Series Analysis, Scientific ML, Sequence Model
 
 🔹 Business Analytics & Databases
 Power BI, Tableau, Advanced Excel, Credit Risk & Investment Modeling, PostgreSQL, MySQL, Snowflake, Hadoop
