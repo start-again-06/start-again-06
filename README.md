@@ -5,9 +5,13 @@ I’ve recently started sharing some of my projects with like-minded individuals
 🔍 Current Focus:
 
 Inverse Problems & Scientific Machine Learning
+
 Integration of AI with Traditional Mechanical Engineering
+
 Dynamic Web Development & Business Analytics
+
 Smoothed Particle Hydrodynamics (SPH)
+
 Occasional Competitive Coding (because it’s fun! 😄)
 
 🛠️ Technical Skills:
