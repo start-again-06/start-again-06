@@ -49,9 +49,12 @@ Slack, Jira, Asana, Agile Methodologies
 
 Data Science, Data Visualization, Operational Analytics, Customer Analytics
 
-🎯 Goals for the Year
+🎯 Goals for the Year:
+
 📈 CFA Level 1 (Certified Financial Analyst)
+
 📋 CAPM (Certified Associate in Project Management)
+
 Looking forward to collaborating and learning from this amazing community! 🚀
 
 
