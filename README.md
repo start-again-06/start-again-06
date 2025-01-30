@@ -45,8 +45,9 @@ Power BI, Tableau, Advanced Excel, Credit Risk & Investment Modeling, PostgreSQL
 
 Slack, Jira, Asana, Agile Methodologies
 
-🔹 General Skills
-Data Science, Data Visualization, Operational Analytics
+🔹 General Skills:
+
+Data Science, Data Visualization, Operational Analytics, Customer Analytics
 
 🎯 Goals for the Year
 📈 CFA Level 1 (Certified Financial Analyst)
