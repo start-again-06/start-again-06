@@ -64,3 +64,6 @@ Data Science, Data Visualization, Operational Analytics, Customer Analytics
 📋 CAPM (Certified Associate in Project Management)
 
 Looking forward to collaborating and learning from this amazing community! 🚀
+
+![](https://komarev.com/ghpvc/?username=start-again-06&color=blue&style=flat-square&label=Profile+Views&abbreviated=true)
+
