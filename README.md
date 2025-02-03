@@ -67,3 +67,10 @@ Looking forward to collaborating and learning from this amazing community! 🚀
 
 ![](https://komarev.com/ghpvc/?username=start-again-06&color=blue&style=flat-square&label=Profile+Views&abbreviated=true)
 
+- uses: Platane/snk@v3
+  with:
+     github_user_name: ${{start-again-06}}
+     outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
