@@ -71,7 +71,7 @@ Data Science, Data Visualization, Operational Analytics, Customer Analytics
 
 1. [Suspension Dynamics of Droplets in Acoustic and Gravitational Fields](https://doi.org/10.1103/PhysRevFluids.10.063602),  
    Jeyapradhap Thirisangu, Anjan Mahapatra, Karthick Subramani.  
-   *Phys. Rev. Fluids* 10, 063602. DOI: 10.1103/PhysRevFluids.10.063602, June 2025.
+   *Phys. Rev. Fluids* 10, 063602. DOI: [10.1103/PhysRevFluids.10.063602](url), June 2025.
 
 ### Conference Publications:
 
@@ -91,7 +91,7 @@ Data Science, Data Visualization, Operational Analytics, Customer Analytics
 
 1. [Sustainable Green Lubricants](https://doi.org/10.1201/9781003535447-2),  
    Anjan Mahapatra, Prameet Vats, Arun Kumar Bambam, Avinash Kumar, Kishor Kumar Gajrani.  
-   *Performance Characterization of Lubricants*, CRC Press, DOI: 10.1201/9781003535447-2, October 2024.
+   *Performance Characterization of Lubricants*, CRC Press, DOI: [10.1201/9781003535447-2](url), October 2024.
 
 
 Looking forward to collaborating and learning from this amazing community! 🚀
