@@ -6,13 +6,13 @@ I’ve recently started sharing some of my projects with like-minded individuals
 
 🔍 Current Focus:
 
-Inverse Problems & Scientific Machine Learning
+*Inverse Problems & Scientific Machine Learning*
 
-Integration of AI with Traditional Mechanical Engineering
+*Integration of AI with Traditional Mechanical Engineering*
 
-Dynamic Web Development & Business Analytics
+*Dynamic Web Development & Business Analytics*
 
-Smoothed Particle Hydrodynamics (SPH)
+*Meshless Methods in Computational Modelling*
 
 Occasional Competitive Coding (because it’s fun! 😄)
 
