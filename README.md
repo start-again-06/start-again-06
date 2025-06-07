@@ -65,6 +65,25 @@ Data Science, Data Visualization, Operational Analytics, Customer Analytics
 
 📋 CAPM (Certified Associate in Project Management)
 
+Publications:
+
+Journal Publication :
+
+(1) [Suspension Dynamics of Droplets in Acoustic and Gravitational Fields]([url](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.063602)), Jeyapradhap Thirisangu, Anjan Mahapatra, Karthick Subramani.Phys. Rev. Fluids 10, 063602.DOI: 10.1103/PhysRevFluids.10.063602, June 2025.
+
+Conference Publications :
+
+(1) Optimal Transport PINNs: A Data-Efficient Approach to High-Fidelity Turbulence Modeling , Anjan Mahapatra and Nikhil Raj, 5th Mathematical and Scientific Machine Learning, University of Naples, Italy, August 2025.
+(2) Particle-Fluid Interactions in Acoustically Driven Convection System: A Study on Microbead Dynamics , Anjan Mahapatra and S. Muthu Shravan, 2nd UK Microfluidic Conference, University of Leeds, UK, June 2025.
+(3) Numerical Investigation of droplets in a vertical minichannel subjected to standing acoustic waves, Jeyapradhap Thirisangu, Anjan Mahapatra, Karthick Subramani, 10th International and 50th National Conference on Fluid Mechanics and Fluid Power (FMFP-2023), IIT Jodhpur, December 2023.
+(4) Experimental investigation on the influence of acoustic radiation force direction on droplet sorting using BAW, Jeyapradhap Thirisangu, Anjan Mahapatra, Karthick Subramani, International Conference on Fluid Mechanics and Nanoelectronics -(ICRAFMN-2023), Manipal Institute of Technology, Bangalore & National Institute of Technology, Uttarakhand, July 2023.
+
+Book Chapter :
+
+(1) [Sustainable Green Lubricants]([url](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003535447-2/sustainable-green-lubricants-anjan-mahapatra-prameet-vats-arun-kumar-bambam-avinash-kumar-kishor-kumar-gajrani)), Anjan Mahapatra, Prameet Vats, Arun Kumar Bambam, Avinash Kumar, Kishor Kumar Gajrani.Performance Characterization of Lubricants, CRC Press, DOI: 10.1201/9781003535447-2, October 2024.
+
 Looking forward to collaborating and learning from this amazing community! 🚀
 
 ![](https://komarev.com/ghpvc/?username=start-again-06&color=blue&style=flat-square&label=Profile+Views&abbreviated=true)
+
+
