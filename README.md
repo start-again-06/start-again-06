@@ -76,16 +76,16 @@ Data Science, Data Visualization, Operational Analytics, Customer Analytics
 ### Conference Publications:
 
 1. Optimal Transport PINNs: A Data-Efficient Approach to High-Fidelity Turbulence Modeling,  
-   Anjan Mahapatra* and Nikhil Raj, 5th Mathematical and Scientific Machine Learning, University of Naples, Italy, August 2025.
+   Anjan Mahapatra* and Nikhil Raj, *5th Mathematical and Scientific Machine Learning*, University of Naples, Italy, August 2025.
 
 2. Particle-Fluid Interactions in Acoustically Driven Convection System: A Study on Microbead Dynamics,  
-   Anjan Mahapatra* and S. Muthu Shravan, 2nd UK Microfluidic Conference, University of Leeds, UK, June 2025.
+   Anjan Mahapatra* and S. Muthu Shravan, *2nd UK Microfluidic Conference*, University of Leeds, UK, June 2025.
 
 3. Numerical Investigation of droplets in a vertical minichannel subjected to standing acoustic waves,  
-   Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani, 10th International and 50th National Conference on Fluid Mechanics and Fluid Power (FMFP-2023),   IIT Jodhpur, December 2023.
+   Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani, *10th International and 50th National Conference on Fluid Mechanics and Fluid Power (FMFP-2023)*,   IIT Jodhpur, December 2023.
 
 4. Experimental investigation on the influence of acoustic radiation force direction on droplet sorting using BAW,  
-   Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani, International Conference on Fluid Mechanics and Nanoelectronics (ICRAFMN-2023), Manipal Institute of Technology, Bangalore & National Institute of Technology, Uttarakhand, July 2023.
+   Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani, *International Conference on Fluid Mechanics and Nanoelectronics (ICRAFMN-2023)*, Manipal Institute of Technology, Bangalore & National Institute of Technology, Uttarakhand, July 2023.
 
 ### Book Chapter:
 
