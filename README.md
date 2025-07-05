@@ -38,42 +38,51 @@ Occasional Competitive Coding (because it’s fun! 😄)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-🛠️ Technical Skillset
-🔹 CAD & Simulation Tools
-CAD: SolidWorks, CATIA V5, Autodesk Fusion 360, Onshape
+## 🛠️ Technical Skillset
 
-Simulation:
-Ansys (ICEPak, ICEM CFD, APDL, LSDyna), Altair HyperWorks, COMSOL Multiphysics,
-Star-CCM+, Converge CFD, OpenFOAM, Lotus Shark Analysis, IPG CarMaker, Altair HyperMesh
+### 🔹 CAD & Simulation Tools
+- **CAD**: SolidWorks, CATIA V5, Autodesk Fusion 360, Onshape  
+- **Simulation**:  
+  Ansys (ICEPak, ICEM CFD, APDL, LSDyna)  
+  Altair HyperWorks, Altair HyperMesh  
+  COMSOL Multiphysics  
+  Star-CCM+, Converge CFD, OpenFOAM  
+  Lotus Shark Analysis, IPG CarMaker
 
-🔹 AI / Machine Learning Specialization
-Core Architectures: ANNs, RNNs, CNNs, GANs, GNNs, PINNs
+---
 
-Advanced Topics: Reinforcement Learning, Sequence Models, Time-Series Analysis, Scientific Machine Learning
+### 🔹 AI / Machine Learning Specialization
+- **Core Architectures**:  
+  ANN, RNN, CNN, GAN, GNN, PINN  
+- **Advanced Techniques**:  
+  Reinforcement Learning, Sequence Models, Time-Series Analysis, Scientific Machine Learning
 
-🔹 Business Analytics & Databases
-BI Tools: Power BI, Tableau, Advanced Excel
+---
 
-Use Cases: Credit Risk Modeling, Investment Modeling
+### 🔹 Business Analytics & Databases
+- **BI & Reporting Tools**: Power BI, Tableau, Advanced Excel  
+- **Use Cases**: Credit Risk Modeling, Investment Modeling  
+- **Databases**: PostgreSQL, MySQL, Snowflake, Hadoop
 
-Databases: PostgreSQL, MySQL, Snowflake, Hadoop (Big Data Framework)
+---
 
-🔹 Project & Workflow Management
-Slack, Jira, Asana
+### 🔹 Project & Workflow Management
+- Tools: Slack, Jira, Asana  
+- Methodologies: Agile, Scrum, Sprint Planning
 
-Agile Methodologies, Sprint Planning, Team Collaboration
+---
 
-🔹 General Skills
-Data Science & Analytics
+### 🔹 General Data Science Skills
+- Data Science, Scientific Computing  
+- Data Visualization  
+- Operational Analytics, Customer Analytics
 
-Data Visualization
+---
 
-Operational & Customer Analytics
+## 🎯 Goals for the Year
+- 📈 **CFA Level 1** *(Certified Financial Analyst)*  
+- 📋 **CAPM** *(Certified Associate in Project Management)*
 
-🎯 Goals for the Year
-📈 CFA Level 1 (Certified Financial Analyst)
-
-📋 CAPM (Certified Associate in Project Management)
 
 ## Publications:
 
