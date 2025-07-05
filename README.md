@@ -38,29 +38,39 @@ Occasional Competitive Coding (because it’s fun! 😄)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-🔹 CAD & Simulation Tools:
-
+🛠️ Technical Skillset
+🔹 CAD & Simulation Tools
 CAD: SolidWorks, CATIA V5, Autodesk Fusion 360, Onshape
-Simulation: Ansys (ICEPak, ICEM, APDL, LSDyna), Altair HyperWorks, COMSOL, Star-CCM+, Converge, OpenFOAM, Lotus Shark Analysis, IPGCarMaker, Altair HyperMesh
 
-🔹 AI/ML Specialization:
+Simulation:
+Ansys (ICEPak, ICEM CFD, APDL, LSDyna), Altair HyperWorks, COMSOL Multiphysics,
+Star-CCM+, Converge CFD, OpenFOAM, Lotus Shark Analysis, IPG CarMaker, Altair HyperMesh
 
-ANNs, GANs, RNNs, PINNs, GNNs, CNNs, Reinforcement Learning, Time-Series Analysis, Scientific ML, Sequence Model
+🔹 AI / Machine Learning Specialization
+Core Architectures: ANNs, RNNs, CNNs, GANs, GNNs, PINNs
 
-🔹 Business Analytics & Databases:
+Advanced Topics: Reinforcement Learning, Sequence Models, Time-Series Analysis, Scientific Machine Learning
 
-Power BI, Tableau, Advanced Excel, Credit Risk & Investment Modeling, PostgreSQL, MySQL, Snowflake, Hadoop
+🔹 Business Analytics & Databases
+BI Tools: Power BI, Tableau, Advanced Excel
 
-🔹 Project Management:
+Use Cases: Credit Risk Modeling, Investment Modeling
 
-Slack, Jira, Asana, Agile Methodologies
+Databases: PostgreSQL, MySQL, Snowflake, Hadoop (Big Data Framework)
 
-🔹 General Skills:
+🔹 Project & Workflow Management
+Slack, Jira, Asana
 
-Data Science, Data Visualization, Operational Analytics, Customer Analytics
+Agile Methodologies, Sprint Planning, Team Collaboration
 
-🎯 Goals for the Year:
+🔹 General Skills
+Data Science & Analytics
 
+Data Visualization
+
+Operational & Customer Analytics
+
+🎯 Goals for the Year
 📈 CFA Level 1 (Certified Financial Analyst)
 
 📋 CAPM (Certified Associate in Project Management)
