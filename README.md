@@ -40,17 +40,6 @@ Occasional Competitive Coding (because it’s fun! 😄)
 
 ## 🛠️ Technical Skillset
 
-### 🔹 CAD & Simulation Tools
-- **CAD**: SolidWorks, CATIA V5, Autodesk Fusion 360, Onshape  
-- **Simulation**:  
-  Ansys (ICEPak, ICEM CFD, APDL, LSDyna)  
-  Altair HyperWorks, Altair HyperMesh  
-  COMSOL Multiphysics  
-  Star-CCM+, Converge CFD, OpenFOAM  
-  Lotus Shark Analysis, IPG CarMaker
-
----
-
 ### 🔹 AI / Machine Learning Specialization
 - **Core Architectures**:  
   ANN, RNN, CNN, GAN, GNN, PINN  
@@ -76,6 +65,17 @@ Occasional Competitive Coding (because it’s fun! 😄)
 - Data Science, Scientific Computing  
 - Data Visualization  
 - Operational Analytics, Customer Analytics
+
+---
+
+### 🔹 CAD & Simulation Tools
+- **CAD**: SolidWorks, CATIA V5, Autodesk Fusion 360, Onshape  
+- **Simulation**:  
+  Ansys (ICEPak, ICEM CFD, APDL, LSDyna)  
+  Altair HyperWorks, Altair HyperMesh  
+  COMSOL Multiphysics  
+  Star-CCM+, Converge CFD, OpenFOAM  
+  Lotus Shark Analysis, IPG CarMaker
 
 ---
 
