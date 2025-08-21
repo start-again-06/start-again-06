@@ -1,6 +1,6 @@
 Hi GitHub Community! 👋
 
-https://github.com/start-again-06/start-again-06/blob/main/GIF_Droplet_final%20(1).gif
+![Droplet sorting using acoustics](https://github.com/start-again-06/start-again-06/blob/main/GIF_Droplet_final%20(1).gif)
 
 I’ve recently started sharing some of my projects with like-minded individuals. I enjoy discussing new concepts, exploring the latest advancements, and diving into challenging problems.
 
