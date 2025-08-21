@@ -1,6 +1,6 @@
 Hi GitHub Community! 👋
 
-"If you are dreaming big, make sure you dream big."
+![Droplet sorting based on acoustics](https://drive.google.com/file/d/17AzwCPaAOot4Fdl6WSbFaETFu6qC0uKo/view?usp=drive_link))
 
 I’ve recently started sharing some of my projects with like-minded individuals. I enjoy discussing new concepts, exploring the latest advancements, and diving into challenging problems.
 
