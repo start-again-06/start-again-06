@@ -75,12 +75,7 @@ Occasional Competitive Coding (because it’s fun! 😄)
   Star-CCM+, Converge CFD, OpenFOAM  
   Lotus Shark Analysis, IPG CarMaker
 
----
-
-## 🎯 Goals for the Year
-- 📈 **CFA Level 1** *(Certified Financial Analyst)*  
-- 📋 **CAPM** *(Certified Associate in Project Management)*
-
+--
 
 ## Publications:
 
