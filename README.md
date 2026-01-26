@@ -36,6 +36,9 @@ I’ve recently started sharing some of my projects with like-minded individuals
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=AnjanMahapatra&repo=LAN&theme=radical)
+
+
 ## Publications:
 
 ### Journal Publication:
