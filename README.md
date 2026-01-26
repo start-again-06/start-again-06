@@ -8,7 +8,6 @@ Rooted in a multidisciplinary background spanning biomedical and computational e
 I’ve recently started sharing some of my projects with like-minded individuals. I enjoy discussing new concepts, exploring the latest advancements, and diving into challenging problems.
 
 🔍 Current Focus:
-## Focus Areas for Fintech Product Management
 
 - **Build Fintech Domain Knowledge** – Learn about payments, lending, investing, credit scoring, fraud detection, and regulations like KYC/AML.
 
