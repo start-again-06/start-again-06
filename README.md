@@ -1,6 +1,6 @@
 Hi GitHub Community! 👋
 
-Anjan Mahapatra is a technically fluent, analytically driven professional with a strong foundation in engineering and a growing specialization in AI/ML-enabled systems and data-first decision-making. He brings experience in shaping end-to-end product development cycles—from initial problem discovery and requirements analysis to system architecture, user workflow design, and go-to-market execution.
+Anjan Mahapatra is a technically fluent and analytically driven professional with a strong engineering foundation and a growing specialization in AI/ML-enabled products and data-driven decision-making. He has hands-on experience across manufacturing, construction, and software-as-a-service (SaaS) domains, shaping end-to-end product development cycles including problem discovery, market research, requirements gathering, designing system architectures, defining user workflows, and executing go-to-market strategies. Anjan combines technical insight with product vision, ensuring that AI/ML solutions are both impactful and aligned with business objectives.
 
 Rooted in a multidisciplinary background spanning automotive, biomedical, and computational engineering, Anjan excels at solving complex, cross-domain problems. His approach blends technical system design with a sharp focus on usability, scalability, and strategic alignment.
 ![Droplet sorting using acoustics](https://github.com/start-again-06/start-again-06/blob/main/GIF_Droplet_final%20(1).gif)
