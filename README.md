@@ -4,7 +4,6 @@ Anjan Mahapatra is a technically fluent and analytically driven professional wit
 
 Rooted in a multidisciplinary background spanning biomedical and computational engineering, Anjan specializes in LLMs, SLMs, AGI, physical AI agents, and agentic AI systems. He excels at designing and deploying intelligent, autonomous, and interactive AI solutions that bridge the gap between virtual models and real-world applications. His approach combines advanced technical system design with a focus on scalability, usability, and strategic alignment, enabling AI-driven products that are both impactful and ethically responsible.
 
-![Droplet sorting using acoustics](https://github.com/start-again-06/start-again-06/blob/main/GIF_Droplet_final%20(1).gif)
 I’ve recently started sharing some of my projects with like-minded individuals. I enjoy discussing new concepts, exploring the latest advancements, and diving into challenging problems.
 
 🔍 Current Focus:
