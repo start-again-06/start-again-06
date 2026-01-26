@@ -36,7 +36,7 @@ I’ve recently started sharing some of my projects with like-minded individuals
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Code Contribution Breakdown](./92e420b1-781e-42a3-a72a-684908bc6d88.png)
+
 
 ## Publications:
 
