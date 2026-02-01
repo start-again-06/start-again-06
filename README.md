@@ -28,9 +28,6 @@ I’ve recently started sharing some of my projects with like-minded individuals
 [![](https://visitcount.itsvg.in/api?id=start-again-06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 ## Publications:
 
 ### Journal Publication:
