@@ -59,7 +59,7 @@ I’ve recently started sharing some of my projects with like-minded individuals
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kuldeep Saxena, Kishor Kumar Gajrani.
    *Data-driven decision making in advanced manufacturing*, ASME.
 
-3. Nanofluids in Lubrication and Tribology.
+3. Nanofluids in Lubrication and Tribology,  
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.
    *Fundamentals and Applications of Nanofluids*, Elsevier.
 
