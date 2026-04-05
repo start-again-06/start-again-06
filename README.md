@@ -55,7 +55,7 @@ I’ve recently started sharing some of my projects with like-minded individuals
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Avinash Kumar, Kishor Kumar Gajrani.  
    *Performance Characterization of Lubricants*, CRC Press, DOI:10.1201/9781003535447-2, October 2024.
 
-2. [[Scientific machine learning and physics-based modeling in manufacturing](https://doi.org/10.1115/1.889312_ch2)],  
+2. [Scientific machine learning and physics-based modeling in manufacturing](https://doi.org/10.1115/1.889312_ch2),  
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kuldeep Saxena, Kishor Kumar Gajrani.
    *Data-driven decision making in advanced manufacturing*, ASME.
 
