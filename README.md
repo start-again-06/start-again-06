@@ -33,19 +33,19 @@ I’ve recently started sharing some of my projects with like-minded individuals
 
 ### Conference Publications:
 
-1. Optimal Transport PINNs: A Data-Efficient Approach to High-Fidelity Turbulence Modeling,  
+1. [Optimal Transport PINNs: A Data-Efficient Approach to High-Fidelity Turbulence Modeling](https://www.researchgate.net/publication/392514084_Optimal_Transport_PINNs_A_Data-Efficient_Approach_to_High-Fidelity_Turbulence_Modeling)],  
    Anjan Mahapatra* , Nikhil Raj.
    Presented at *5th Mathematical and Scientific Machine Learning*, University of Naples, Italy, August 2025.
 
-2. Particle-Fluid Interactions in Acoustically Driven Convection System: A Study on Microbead Dynamics,  
+2. [Particle-Fluid Interactions in Acoustically Driven Convection System: A Study on Microbead Dynamics](https://www.researchgate.net/publication/392513986_Particle-Fluid_Interactions_in_Acoustically_Driven_Convection_System_A_Study_on_Microbead_Dynamics)],  
    Anjan Mahapatra* , S. Muthu Shravan. 
    Presented at *2nd UK Microfluidic Conference*, University of Leeds, UK, June 2025.
 
-3. Numerical Investigation of droplets in a vertical minichannel subjected to standing acoustic waves,  
+3. [Numerical Investigation of droplets in a vertical minichannel subjected to standing acoustic waves](https://www.researchgate.net/publication/385851746_Numerical_Investigation_of_droplets_in_a_vertical_minichannel_subjected_to_standing_acoustic_waves),  
    Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani.
    Presented at *10th International and 50th National Conference on Fluid Mechanics and Fluid Power (FMFP-2023)*,   IIT Jodhpur, December 2023.
 
-5. Experimental investigation on the influence of acoustic radiation force direction on droplet sorting using BAW,  
+4. [Experimental investigation on the influence of acoustic radiation force direction on droplet sorting using BAW](https://www.researchgate.net/publication/385851927_Experimental_investigation_on_the_influence_of_acoustic_radiation_force_direction_on_droplet_sorting_using_BAW),  
    Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani.
    Presented at *International Conference on Fluid Mechanics and Nanoelectronics (ICRAFMN-2023)*, Manipal Institute of Technology, Bangalore & National Institute of Technology, Uttarakhand, July 2023.
 
