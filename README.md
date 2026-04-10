@@ -57,7 +57,7 @@ I’ve recently started sharing some of my projects with like-minded individuals
 
 2. [Scientific machine learning and physics-based modeling in manufacturing](https://doi.org/10.1115/1.889312_ch2),  
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kuldeep Saxena, Kishor Kumar Gajrani.
-   *Data-driven decision making in advanced manufacturing*, ASME.
+   *Data-driven decision making in advanced manufacturing*, ASME, DOI:10.1115/1.889312_ch2, April 2026.
 
 3. Nanofluids in Lubrication and Tribology,  
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.
