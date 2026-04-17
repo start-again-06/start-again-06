@@ -33,11 +33,11 @@ I’ve recently started sharing some of my projects with like-minded individuals
 
 ### Conference Publications:
 
-1. [Optimal Transport PINNs: A Data-Efficient Approach to High-Fidelity Turbulence Modeling](https://www.researchgate.net/publication/392514084_Optimal_Transport_PINNs_A_Data-Efficient_Approach_to_High-Fidelity_Turbulence_Modeling)],  
+1. [Optimal Transport PINNs: A Data-Efficient Approach to High-Fidelity Turbulence Modeling(https://www.researchgate.net/publication/392514084_Optimal_Transport_PINNs_A_Data-Efficient_Approach_to_High-Fidelity_Turbulence_Modeling)],  
    Anjan Mahapatra* , Nikhil Raj.  
    Presented at *5th Mathematical and Scientific Machine Learning*, University of Naples, Italy, August 2025.
 
-2. [Particle-Fluid Interactions in Acoustically Driven Convection System: A Study on Microbead Dynamics](https://www.researchgate.net/publication/392513986_Particle-Fluid_Interactions_in_Acoustically_Driven_Convection_System_A_Study_on_Microbead_Dynamics)],  
+2. [Particle-Fluid Interactions in Acoustically Driven Convection System: A Study on Microbead Dynamics(https://www.researchgate.net/publication/392513986_Particle-Fluid_Interactions_in_Acoustically_Driven_Convection_System_A_Study_on_Microbead_Dynamics)],  
    Anjan Mahapatra* , S. Muthu Shravan.  
    Presented at *2nd UK Microfluidic Conference*, University of Leeds, UK, June 2025.
 
