@@ -29,7 +29,7 @@ I’ve recently started sharing some of my projects with like-minded individuals
 
 1. [Suspension Dynamics of Droplets in Acoustic and Gravitational Fields](https://doi.org/10.1103/PhysRevFluids.10.063602),  
    Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani.  
-   *Phys. Rev. Fluids* 10, 063602. DOI: 10.1103/PhysRevFluids.10.063602, June 2025.
+   *Phys. Rev. Fluids* 10, 063602, DOI: 10.1103/PhysRevFluids.10.063602, June 2025.
 
 ### Conference Publications:
 
