@@ -37,7 +37,7 @@ I’ve recently started sharing some of my projects with like-minded individuals
    Anjan Mahapatra* , Nikhil Raj.  
    Presented at *5th Mathematical and Scientific Machine Learning*, University of Naples, Italy, August 2025.
 
-2. Particle-Fluid Interactions in Acoustically Driven Convection System: A Study on Microbead Dynamics(https://www.researchgate.net/publication/392513986_Particle-Fluid_Interactions_in_Acoustically_Driven_Convection_System_A_Study_on_Microbead_Dynamics)],  
+2. [Particle-Fluid Interactions in Acoustically Driven Convection System: A Study on Microbead Dynamics](https://www.researchgate.net/publication/392513986_Particle-Fluid_Interactions_in_Acoustically_Driven_Convection_System_A_Study_on_Microbead_Dynamics),  
    Anjan Mahapatra* , S. Muthu Shravan.  
    Presented at *2nd UK Microfluidic Conference*, University of Leeds, UK, June 2025.
 
