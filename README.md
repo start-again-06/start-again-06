@@ -60,11 +60,11 @@ I’ve recently started sharing some of my projects with like-minded individuals
    *Data-driven decision making in advanced manufacturing*, ASME, DOI:10.1115/1.889312_ch2, April 2026.
 
 3. Nanofluids in Lubrication and Tribology,  
-   Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.
+   Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.  
    *Fundamentals and Applications of Nanofluids*, Elsevier.
 
 3. Ethics, Policy, and Governance in Sustainable Manufacturing,  
-    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.
+    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.  
    *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME.
    
 Looking forward to collaborating and learning from this amazing community! 🚀
