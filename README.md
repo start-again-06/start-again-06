@@ -63,7 +63,10 @@ I’ve recently started sharing some of my projects with like-minded individuals
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.
    *Fundamentals and Applications of Nanofluids*, Elsevier.
 
-
+3. Ethics, Policy, and Governance in Sustainable Manufacturing,  
+    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.
+   *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME.
+   
 Looking forward to collaborating and learning from this amazing community! 🚀
 
 ![](https://komarev.com/ghpvc/?username=start-again-06&color=blue&style=flat-square&label=Profile+Views&abbreviated=true)
