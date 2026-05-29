@@ -31,6 +31,10 @@ I’ve recently started sharing some of my projects with like-minded individuals
    Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani.  
    *Phys. Rev. Fluids* 10, 063602, DOI: 10.1103/PhysRevFluids.10.063602, June 2025.
 
+2. Droplet Dynamics and Control in Microfluidic Platform for Enhanced System Design,  
+   Anjan Mahapatra.
+   *Frontiers in Lab on a Chip Technologies*, Royal Society of Chemistry.
+
 ### Conference Publications:
 
 1. [Optimal Transport PINNs: A Data-Efficient Approach to High-Fidelity Turbulence Modeling](https://www.researchgate.net/publication/392514084_Optimal_Transport_PINNs_A_Data-Efficient_Approach_to_High-Fidelity_Turbulence_Modeling)    
@@ -63,7 +67,7 @@ I’ve recently started sharing some of my projects with like-minded individuals
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.  
    *Fundamentals and Applications of Nanofluids*, Elsevier.
 
-3. Ethics, Policy, and Governance in Sustainable Manufacturing,  
+4. Ethics, Policy, and Governance in Sustainable Manufacturing,  
     Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.  
    *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME.
    
