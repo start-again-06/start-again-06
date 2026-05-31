@@ -1,10 +1,12 @@
 Hi GitHub Community! 👋
 
-Anjan Mahapatra is a technically fluent and analytically driven professional with a strong engineering foundation and a growing specialization in AI/ML-enabled products and data-driven decision-making. He has hands-on experience across manufacturing, construction, and software-as-a-service (SaaS) domains, shaping end-to-end product development cycles including problem discovery, market research, requirements gathering, designing system architectures, defining user workflows, and executing go-to-market strategies. Anjan combines technical insight with product vision, ensuring that AI/ML solutions are both impactful and aligned with business objectives.
+Anjan Mahapatra is a tech-savvy, analytical builder with a strong engineering core and a growing edge in AI/ML products, strategy, growth, and data-driven decision-making. He has worked across manufacturing, construction, and SaaS, contributing to end-to-end product journeys from problem discovery and market research to system architecture, user workflows, growth planning, financial thinking, and go-to-market execution. He blends deep technical understanding with product vision and business strategy, building AI solutions that are not just innovative, but actually scalable and commercially impactful.
 
-Rooted in a multidisciplinary background spanning biomedical and computational engineering, Anjan specializes in LLMs, SLMs, AGI, physical AI agents, and agentic AI systems. He excels at designing and deploying intelligent, autonomous, and interactive AI solutions that bridge the gap between virtual models and real-world applications. His approach combines advanced technical system design with a focus on scalability, usability, and strategic alignment, enabling AI-driven products that are both impactful and ethically responsible.
+With a multidisciplinary background spanning biomedical and computational engineering, Anjan specializes in LLMs, SLMs, AGI, physical AI agents, and agentic AI systems. He enjoys designing intelligent, autonomous systems that connect digital intelligence with real-world applications. His approach combines advanced technical architecture with strategic thinking, usability, growth orientation, and financial awareness, enabling AI-driven products that are scalable, practical, human-centric, and built for long-term impact.
 
-*Currently serving as Reviewer for American Physical Society (APS) and Springer Nature (Mechanical Track).*
+Currently, he is building two of his dream startups: Smarttaxz, a tax and finance consulting firm, and Arogyavani – Doctor Talks, an AI-driven telecalling healthcare platform focused on improving healthcare accessibility and intelligent patient engagement.
+
+*Serving as Reviewer for American Physical Society (APS) and Springer Nature (Mechanical Track).*
 
 🔍 Current Focus:
 
