@@ -26,18 +26,10 @@ Currently, he is building two of his dream startups: Smarttaxz, a tax and financ
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="center">My Modern Stack</h2>
+<h2 align="center">💻 Programming Languages</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=start-again-06&theme=github_dark"
-    width="500"
-    alt="My Modern Stack"
-  />
-</p>
-
-<p align="center">
-  <sub><i>Languages and technologies I use across my projects.</i></sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=start-again-06&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ## Publications:
