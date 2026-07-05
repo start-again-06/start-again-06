@@ -29,12 +29,11 @@ Currently, he is building two of his dream startups: Smarttaxz, a tax and financ
 <h2 align="center">My Modern Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,django,fastapi,tensorflow,pytorch,docker,mysql,postgres,mongodb,git,linux,aws&perline=10"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=start-again-06&theme=github_dark"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=start-again-06&theme=github_dark"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=start-again-06&theme=github_dark"
+    width="350"
+    alt="Repository Languages"
+  />
 </p>
 
 ## Publications:
