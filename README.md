@@ -31,8 +31,13 @@ Currently, he is building two of his dream startups: Smarttaxz, a tax and financ
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=start-again-06&theme=github_dark"
-    width="350"
+    width="300"
     alt="Repository Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=start-again-06&theme=github_dark"
+    width="300"
+    alt="Most Commit Language"
   />
 </p>
 
