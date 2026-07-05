@@ -29,7 +29,7 @@ Currently, he is building two of his dream startups: Smarttaxz, a tax and financ
 ## Technical Expertise
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=transparent&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=start-again-06&layout=donut&theme=transparent&hide_border=true&langs_count=8"/>
 </p>
 
 > *Percentages are automatically calculated from all public repositories.*
