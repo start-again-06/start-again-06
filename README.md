@@ -25,6 +25,15 @@ Currently, he is building two of his dream startups: Smarttaxz, a tax and financ
 [![](https://visitcount.itsvg.in/api?id=start-again-06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Technical Expertise
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=transparent&hide_border=true&langs_count=8"/>
+</p>
+
+> *Percentages are automatically calculated from all public repositories.*
+
 ## Publications:
 
 ### Journal Publication:
