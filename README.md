@@ -4,8 +4,6 @@ Anjan Mahapatra is a tech-savvy, analytical builder with a strong engineering co
 
 With a multidisciplinary background spanning biomedical and computational engineering, Anjan specializes in LLMs, SLMs, AGI, physical AI agents, and agentic AI systems. He enjoys designing intelligent, autonomous systems that connect digital intelligence with real-world applications. His approach combines advanced technical architecture with strategic thinking, usability, growth orientation, and financial awareness, enabling AI-driven products that are scalable, practical, human-centric, and built for long-term impact.
 
-Currently, he is building two of his dream startups: Smarttaxz, a tax and finance consulting firm (currently at the pre-series funding stage), and Arogyavani – Doctor Talks, an AI-driven telecalling healthcare platform focused on improving healthcare accessibility and intelligent patient engagement.
-
 *Serving as Reviewer for American Physical Society (APS) and Springer Nature (Mechanical Track).*
 
 🔍 Current Focus:
