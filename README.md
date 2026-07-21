@@ -4,7 +4,7 @@ Anjan Mahapatra is a tech-savvy, analytical builder with a strong engineering co
 
 With a multidisciplinary background spanning biomedical and computational engineering, Anjan specializes in LLMs, SLMs, AGI, physical AI agents, and agentic AI systems. He enjoys designing intelligent, autonomous systems that connect digital intelligence with real-world applications. His approach combines advanced technical architecture with strategic thinking, usability, growth orientation, and financial awareness, enabling AI-driven products that are scalable, practical, human-centric, and built for long-term impact.
 
-*Currently building two venture-backed startups in high-growth markets: [SmartTaxz] (https://smarttaxz.com/), a technology-first tax & financial consulting platform (Pre-Series Funding Stage | Stealth Mode), and Arogyvani, an AI-powered multilingual voice platform automating customer engagement at scale (Product Development Stage).*
+*Currently building two venture-backed startups in high-growth markets: [SmartTaxz] (https://smarttaxz.com/), a technology-first tax & financial consulting platform (Pre-Series Funding Stage | Stealth Mode), and Arogyavani, an AI-powered multilingual voice platform automating customer engagement at scale (Product Development Stage).*
 
 *Serving as Reviewer for American Physical Society (APS), Springer Nature (Mechanical Track), and International Journal of Finance, Accounting and Risk Management.*
 
