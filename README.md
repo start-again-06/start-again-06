@@ -53,8 +53,8 @@ With a multidisciplinary background spanning biomedical and computational engine
    Anjan Mahapatra*.  
    *Frontiers in Lab on a Chip Technologies*, Royal Society of Chemistry. (Under Review)
 
-3. Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework,
-   Anjan Mahapatra*.
+3. Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework,   
+   Anjan Mahapatra*.  
    *International Journal of Accounting, Finance and Risk Management*, Science Publishing Group.  (Under Review)
 
 ### Conference Publications:
