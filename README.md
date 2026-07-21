@@ -87,11 +87,11 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 3. Nanofluids in Lubrication and Tribology,  
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.  
-   *Fundamentals and Applications of Nanofluids*, Elsevier.
+   *Fundamentals and Applications of Nanofluids*, Elsevier. (Under Review)
 
 4. Ethics, Policy, and Governance in Sustainable Manufacturing,  
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.  
-   *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME.
+   *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME. (Under Review)
    
 Looking forward to collaborating and learning from this amazing community! 🚀
 
