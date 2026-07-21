@@ -51,7 +51,11 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 2. Droplet Dynamics and Control in Microfluidic Platform for Enhanced System Design,  
    Anjan Mahapatra*.  
-   *Frontiers in Lab on a Chip Technologies*, Royal Society of Chemistry.
+   *Frontiers in Lab on a Chip Technologies*, Royal Society of Chemistry. (Under Review)
+
+3. Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework,
+   Anjan Mahapatra*.
+   *International Journal of Accounting, Finance and Risk Management*, Science Publishing Group.  (Under Review)
 
 ### Conference Publications:
 
@@ -86,7 +90,7 @@ With a multidisciplinary background spanning biomedical and computational engine
    *Fundamentals and Applications of Nanofluids*, Elsevier.
 
 4. Ethics, Policy, and Governance in Sustainable Manufacturing,  
-    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.  
+   Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.  
    *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME.
    
 Looking forward to collaborating and learning from this amazing community! 🚀
