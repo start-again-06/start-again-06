@@ -75,6 +75,10 @@ With a multidisciplinary background spanning biomedical and computational engine
    Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani.  
    Presented at *International Conference on Fluid Mechanics and Nanoelectronics (ICRAFMN-2023)*, Manipal Institute of Technology, Bangalore & National Institute of Technology, Uttarakhand, July 2023.
 
+5. Physics-Informed Boltzmann Kinetic Learning for Subgrid-Scale Turbulence Modeling in the Lattice Boltzmann Framework  
+   Anjan Mahapatra*, Nikhil Raj.  
+   To be presented at *13th International and 53rd National Conference on Fluid Mechanics and Fluid Power (FMFP 2026)*, NIT Rourkela, December, 2026.
+   
 ### Book Chapter:
 
 1. [Sustainable Green Lubricants](https://doi.org/10.1201/9781003535447-2),  
@@ -87,11 +91,11 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 3. Nanofluids in Lubrication and Tribology,  
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.  
-   *Fundamentals and Applications of Nanofluids*, Elsevier. (Under Review)
+   *Fundamentals and Applications of Nanofluids*, Elsevier. (Accepted)
 
 4. Ethics, Policy, and Governance in Sustainable Manufacturing,  
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.  
-   *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME. (Under Review)
+   *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME. (Accepted)
    
 Looking forward to collaborating and learning from this amazing community! 🚀
 
