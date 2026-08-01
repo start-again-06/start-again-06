@@ -55,7 +55,7 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 3. Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework,   
    Anjan Mahapatra*.  
-   *International Journal of Accounting, Finance and Risk Management*, Science Publishing Group.  (Under Review)
+   *International Journal of Accounting, Finance and Risk Management*, Science Publishing Group.  (Accepted and Under Publication)
 
 ### Conference Publications:
 
@@ -77,7 +77,7 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 5. Physics-Informed Boltzmann Kinetic Learning for Subgrid-Scale Turbulence Modeling in the Lattice Boltzmann Framework  
    Anjan Mahapatra*, Nikhil Raj.  
-   To be presented at *13th International and 53rd National Conference on Fluid Mechanics and Fluid Power (FMFP 2026)*, NIT Rourkela, December, 2026.
+   To be presented at *13th International and 53rd National Conference on Fluid Mechanics and Fluid Power (FMFP 2026)*, NIT Rourkela, December, 2026. (Under Review)
    
 ### Book Chapter:
 
@@ -91,11 +91,11 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 3. Nanofluids in Lubrication and Tribology,  
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.  
-   *Fundamentals and Applications of Nanofluids*, Elsevier. (Accepted)
+   *Fundamentals and Applications of Nanofluids*, Elsevier. (Accepted and Under Publication)
 
 4. Ethics, Policy, and Governance in Sustainable Manufacturing,  
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.  
-   *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME. (Accepted)
+   *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME. (Accepted and Under Publication)
    
 Looking forward to collaborating and learning from this amazing community! 🚀
 
