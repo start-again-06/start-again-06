@@ -77,7 +77,11 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 5. Physics-Informed Boltzmann Kinetic Learning for Subgrid-Scale Turbulence Modeling in the Lattice Boltzmann Framework  
    Anjan Mahapatra*, Nikhil Raj.  
-   To be presented at *13th International and 53rd National Conference on Fluid Mechanics and Fluid Power (FMFP 2026)*, NIT Rourkela, December, 2026. (Under Review)
+   To be presented at *13th International and 53rd National Conference on Fluid Mechanics and Fluid Power (FMFP 2026)*, NIT Rourkela, December, 2026. (Under Review).
+
+6. PhysXAI: Diagnosing Physical Hallucinations in Weather and Climate Foundation Models  
+   Nikhil Raj, Anjan Mahapatra*
+   To be presented at *XAI4Science, NeurIPS Workshop, Syndey, Australia, December, 2026. (Under Review).
    
 ### Book Chapter:
 
