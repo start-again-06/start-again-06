@@ -81,7 +81,7 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 6. PhysXAI: Diagnosing Physical Hallucinations in Weather and Climate Foundation Models  
    Nikhil Raj, Anjan Mahapatra*  
-   To be presented at *XAI4Science, NeurIPS Workshop, Syndey, Australia, December, 2026. (Under Review).
+   To be presented at *XAI4Science, NeurIPS Workshop*, Syndey, Australia, December, 2026. (Under Review).
    
 ### Book Chapter:
 
