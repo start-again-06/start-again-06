@@ -98,7 +98,7 @@ With a multidisciplinary background spanning biomedical and computational engine
    *Fundamentals and Applications of Nanofluids*, Elsevier. (Accepted and Under Publication)
 
 4. Ethics, Policy, and Governance in Sustainable Manufacturing,  
-   Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kishor Kumar Gajrani.  
+   Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kuldeep Saxena, Rajnish Mallick, Kishor Kumar Gajrani.  
    *Human-Centric Smart Manufacturing: Industry 5.0 and beyond*, ASME. (Accepted and Under Publication)
    
 Looking forward to collaborating and learning from this amazing community! 🚀
