@@ -6,7 +6,7 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's Office - Product, Revenue, Growth & Business Operations.
 
-*Currently building three venture-backed startups in high-growth markets (something I am fond of apart from the regular job)*:
+*Building own three venture-backed startups in high-growth markets (something I am fond of apart from the regular job)*:
   * [*SmartTaxz*](https://smarttaxz.com/#/)  — *Product, Growth & Investment, Founder (Pravesh Acharya)* — technology-first tax & financial consulting platform *(Pre-Series Funding Stage | Stealth Mode)*.
   * *Arogyavani* — *Co-founder, Co-founder (Alisha Mahapatra)* — AI-powered multilingual voice platform automating customer engagement at scale *(Product Development Stage)*.
   * *Humrahi* — *Co-founder, Co-founder (Vedant Gugale)* — AI-powered multilingual voice platform providing personalized assistance and support for elderly people *(Product Development Stage)*.
