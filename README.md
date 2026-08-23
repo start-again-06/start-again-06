@@ -4,6 +4,7 @@ Anjan Mahapatra is a tech-savvy, analytical builder with a strong engineering co
 
 With a multidisciplinary background spanning biomedical and computational engineering, Anjan specializes in LLMs, SLMs, AGI, physical AI agents, and agentic AI systems. He enjoys designing intelligent, autonomous systems that connect digital intelligence with real-world applications. His approach combines advanced technical architecture with strategic thinking, usability, growth orientation, and financial awareness, enabling AI-driven products that are scalable, practical, human-centric, and built for long-term impact.
 
+Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's Office - Product, Revenue, Growth & Business Operations.
 
 *Currently building three venture-backed startups in high-growth markets (something I am fond of apart from the regular job)*:
   * [*SmartTaxz*](https://smarttaxz.com/#/)  — *Product, Growth & Investment, Founder (Pravesh Acharya)* — technology-first tax & financial consulting platform *(Pre-Series Funding Stage | Stealth Mode)*.
