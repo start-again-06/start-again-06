@@ -5,10 +5,10 @@ Anjan Mahapatra is a tech-savvy, analytical builder with a strong engineering co
 With a multidisciplinary background spanning biomedical and computational engineering, Anjan specializes in LLMs, SLMs, AGI, physical AI agents, and agentic AI systems. He enjoys designing intelligent, autonomous systems that connect digital intelligence with real-world applications. His approach combines advanced technical architecture with strategic thinking, usability, growth orientation, and financial awareness, enabling AI-driven products that are scalable, practical, human-centric, and built for long-term impact.
 
 
-* Currently building three venture-backed startups in high-growth markets:
+*Currently building three venture-backed startups in high-growth markets (something I am fond of apart from the regular job)*:
   * [*SmartTaxz*](https://smarttaxz.com/#/)  — *Product, Growth & Investment, Founder (Pravesh Acharya)* — technology-first tax & financial consulting platform *(Pre-Series Funding Stage | Stealth Mode)*.
   * *Arogyavani* — *Co-founder, Co-founder (Alisha Mahapatra)* — AI-powered multilingual voice platform automating customer engagement at scale *(Product Development Stage)*.
-  * *Humrahi* — *Co-founder, Co-founder (Vedant Gugale)* — AI-powered multilingual voice platform providing personalized assistance and support for elderly people *(Product Development Stage)*.*
+  * *Humrahi* — *Co-founder, Co-founder (Vedant Gugale)* — AI-powered multilingual voice platform providing personalized assistance and support for elderly people *(Product Development Stage)*.
 
 *Serving as Reviewer for American Physical Society (APS), Springer Nature (Mechanical Track), and International Journal of Finance, Accounting and Risk Management.*
 
