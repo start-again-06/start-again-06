@@ -6,7 +6,7 @@ With a multidisciplinary background spanning biomedical and computational engine
 
 
 * Currently building three venture-backed startups in high-growth markets:
-  * *SmartTaxz* — *Product & Growth, Founder (Pravesh Acharya)* — technology-first tax & financial consulting platform *(Pre-Series Funding Stage | Stealth Mode)*.
+  * [*SmartTaxz*]((https://smarttaxz.com/#/))  — *Product, Growth & Investment, Founder (Pravesh Acharya)* — technology-first tax & financial consulting platform *(Pre-Series Funding Stage | Stealth Mode)*.
   * *Arogyavani* — *Co-founder, Co-founder (Alisha Mahapatra)* — AI-powered multilingual voice platform automating customer engagement at scale *(Product Development Stage)*.
   * *Humrahi* — *Co-founder, Co-founder (Vedant Gugale)* — AI-powered multilingual voice platform providing personalized assistance and support for elderly people *(Product Development Stage)*.*
 
