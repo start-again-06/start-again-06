@@ -55,7 +55,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
    *Phys. Rev. Fluids* 10, 063602, DOI: 10.1103/PhysRevFluids.10.063602, June 2025.
 
 2. Droplet Dynamics and Control in Microfluidic Platform for Enhanced System Design,  
-   Anjan Mahapatra*.  
+   Rithanya Raj, Anjan Mahapatra*.  
    *Frontiers in Lab on a Chip Technologies*, Royal Society of Chemistry. (Under Review)
 
 3. Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework,   
