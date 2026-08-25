@@ -58,7 +58,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
    Rithanya Raj, Anjan Mahapatra*.  
    *Frontiers in Lab on a Chip Technologies*, Royal Society of Chemistry. (Under Review)
 
-3. [[Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework](https://www.researchgate.net/publication/404188935_Pricing_Strategy_in_the_Manufacturing_Sector_An_Integrated_Modeling_Framework?channel=doi&linkId=69ecb2b1a18fd41a39ed762c&showFulltext=true)] ,   
+3. [Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework](https://www.researchgate.net/publication/404188935_Pricing_Strategy_in_the_Manufacturing_Sector_An_Integrated_Modeling_Framework?channel=doi&linkId=69ecb2b1a18fd41a39ed762c&showFulltext=true) ,   
    Anjan Mahapatra*.  
    *International Journal of Accounting, Finance and Risk Management*, Science Publishing Group.  (Accepted and Under Publication)
 
