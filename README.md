@@ -8,7 +8,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
 
 *Building own three venture-backed startups in high-growth markets (something I am fond of apart from the regular job)*:
   * [*SmartTaxz*](https://smarttaxz.com/#/)  — *Product, Growth & Investment, Founder (Pravesh Acharya)* — technology-first tax & financial consulting platform *(Pre-Series Funding Stage | Stealth Mode)*.
-  * *Arogyavani* — *Co-founder, Co-founder (Alisha Mahapatra)* — AI-powered multilingual voice platform automating customer engagement at scale *(Product Development Stage)*.
+  * *Arogyavani* — *Co-founder, Co-founder (Dr. Alisha Mahapatra)* — AI-powered multilingual voice platform automating customer engagement at scale *(Product Development Stage)*.
   * *Humrahi* — *Co-founder, Co-founder (Vedant Gugale)* — AI-powered multilingual voice platform providing personalized assistance and support for elderly people *(Product Development Stage)*.
 
 *Serving as Reviewer for American Physical Society (APS), Springer Nature (Mechanical Track), and International Journal of Finance, Accounting and Risk Management.*
