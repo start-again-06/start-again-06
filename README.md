@@ -100,7 +100,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
 
 3. [Nanofluids in Lubrication and Tribology](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443445026000207?via%3Dihub),  
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.  
-   *Fundamentals and Applications of Nanofluids*, Elsevier. (Accepted and Under Publication)
+   *Fundamentals and Applications of Nanofluids*, Elsevier, DOI:10.1016/B978-0-443-44502-6.00020-7, August 2026. 
 
 4. Ethics, Policy, and Governance in Sustainable Manufacturing,  
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kuldeep Saxena, Rajnish Mallick, Kishor Kumar Gajrani.  
