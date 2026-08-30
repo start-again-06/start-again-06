@@ -98,7 +98,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Kuldeep Saxena, Kishor Kumar Gajrani.  
    *Data-driven decision making in advanced manufacturing*, ASME, DOI:10.1115/1.889312_ch2, April 2026.
 
-3. Nanofluids in Lubrication and Tribology,  
+3. [Nanofluids in Lubrication and Tribology](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443445026000207?via%3Dihub),  
    Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.  
    *Fundamentals and Applications of Nanofluids*, Elsevier. (Accepted and Under Publication)
 
