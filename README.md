@@ -88,9 +88,9 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
    Nikhil Raj, Anjan Mahapatra*  
    To be presented at *XAI4Science, NeurIPS Workshop*, Syndey, Australia, December, 2026. (Under Review).
 
-7. PhysXAI: Diagnosing Physical Hallucinations in Weather and Climate Foundation Models  
+7. An Autonomous Multimodal Agentic AI Framework for Personalized Physiological Monitoring and Early Health-Risk Assessment Using Wearable Sensors 
    Rithanya Raj, Anjan Mahapatra*  
-   To be presented at IEEE Indicon, Sri Sai Ram College of Engineering, Chennai, Tamil Nadu, December, 2026. (Under Review).
+   To be presented at IEEE Indicon, Sri Sai Ram College of Engineering, Tamil Nadu, December, 2026. (Under Review).
    
 ### Book Chapter:
 
