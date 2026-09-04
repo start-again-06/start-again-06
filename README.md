@@ -89,7 +89,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
    To be presented at *XAI4Science, NeurIPS Workshop*, Syndey, Australia, December, 2026. (Under Review).
 
 7. An Autonomous Multimodal Agentic AI Framework for Personalized Physiological Monitoring and Early Health-Risk Assessment Using Wearable Sensors   
-      Nikhil Raj, Anjan Mahapatra* 
+      Rithanya Raj, Anjan Mahapatra*  
    To be presented at IEEE Indicon, Sri Sai Ram College of Engineering, Tamil Nadu, December, 2026. (Under Review).
    
 ### Book Chapter:
