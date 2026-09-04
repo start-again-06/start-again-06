@@ -87,6 +87,10 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
 6. PhysXAI: Diagnosing Physical Hallucinations in Weather and Climate Foundation Models  
    Nikhil Raj, Anjan Mahapatra*  
    To be presented at *XAI4Science, NeurIPS Workshop*, Syndey, Australia, December, 2026. (Under Review).
+
+7. PhysXAI: Diagnosing Physical Hallucinations in Weather and Climate Foundation Models  
+   Rithanya Raj, Anjan Mahapatra*  
+   To be presented at IEEE Indicon, Sri Sai Ram College of Engineering, Chennai, Tamil Nadu, December, 2026. (Under Review).
    
 ### Book Chapter:
 
