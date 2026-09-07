@@ -94,6 +94,8 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
 7. An Autonomous Multimodal Agentic AI Framework for Personalized Physiological Monitoring and Early Health-Risk Assessment Using Wearable Sensors   
       Rithanya Raj, Anjan Mahapatra*  
    To be presented at IEEE Indicon, Sri Sai Ram College of Engineering, Tamil Nadu, December, 2026. (Under Review).
+
+8. ECAML Upcoming!!!!!!!!!
    
 ### Book Chapter:
 
