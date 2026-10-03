@@ -98,7 +98,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
 8. Learning to Levitate: Reinforcement Learning for Adaptive Acoustic Control of Droplet Dynamics  
    Anjan Mahapatra*, Nikhil Raj   
    To be presented at *15th International Conference on Learning Representations*, California, US, April, 2027. (Under Review). {Hybrid}
-   
+
 ### Book Chapter:
 
 1. [Sustainable Green Lubricants](https://doi.org/10.1201/9781003535447-2),  
