@@ -51,6 +51,11 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
 
 ## Publications:
 
+### Book Publication:
+1. Soch to Scale: Thinking, Decisions & Strategy in Product Management,  
+   Anjan Mahapatra*,
+   Press: Searching for the right press to publish :).
+
 ### Journal Publication:
 
 1. [Suspension Dynamics of Droplets in Acoustic and Gravitational Fields](https://doi.org/10.1103/PhysRevFluids.10.063602),  
@@ -99,7 +104,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
    Anjan Mahapatra*, Nikhil Raj   
    To be presented at *15th International Conference on Learning Representations*, California, US, April, 2027. (Under Review). {Hybrid}
 
-### Book Chapter:
+### Book Chapter Publications:
 
 1. [Sustainable Green Lubricants](https://doi.org/10.1201/9781003535447-2),  
    Anjan Mahapatra*, Prameet Vats, Arun Kumar Bambam, Avinash Kumar, Kishor Kumar Gajrani.  
