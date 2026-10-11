@@ -53,7 +53,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
 
 ### Book Publication:
 1. Soch to Scale: Thinking, Decisions & Strategy in Product Management,  
-   Anjan Mahapatra*,
+   Anjan Mahapatra*,  
    Press: Searching for the right press to publish :).
 
 ### Journal Publication:
