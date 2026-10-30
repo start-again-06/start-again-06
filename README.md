@@ -14,9 +14,17 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
   * *Arogyavani - Doctor Talks* — *Co-founder, Co-founder (Dr. Alisha Mahapatra)* — AI-powered multilingual voice platform automating customer engagement at scale *(Product Development Stage)*.
   * *Humrahi* — *Co-founder, Co-founder (Vedant Gugale)* — AI-powered multilingual voice platform providing personalized assistance and support for elderly people *(Product Development Stage)* - Are we going for YC - Definitely Yes.
 
+Reviewer Details (Journal):
+
 *Reviewer, American Physical Society (APS)  
  Reviewer, Springer Nature – Mechanical Engineering Track  
  Reviewer, International Journal of Finance, Accounting and Risk Management (IJFARM)*
+
+ Reviewer Details (Conference Paper):
+
+ *Reviewer, NeurIPS (Conference on Neural Information Processing Systems)  
+ Reviewer,International Conference on Advanced Computing Technologies (ICoACT 2027)*
+ 
 
 🔍 Current Focus:
 
