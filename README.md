@@ -26,7 +26,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
  Reviewer, International Conference on Advanced Computing Technologies (ICoACT 2027)*
  
 
-🔍 Current Focus:
+Current Focus:
 
 - **Build Fintech Domain Knowledge** – Learn about payments, lending, investing, credit scoring, fraud detection, and regulations like KYC/AML.
 
