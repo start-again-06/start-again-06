@@ -23,7 +23,7 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
  **Reviewer Details (Conference Paper)**:
 
  *Reviewer, NeurIPS (Conference on Neural Information Processing Systems)  
- Reviewer,International Conference on Advanced Computing Technologies (ICoACT 2027)*
+ Reviewer, International Conference on Advanced Computing Technologies (ICoACT 2027)*
  
 
 🔍 Current Focus:
