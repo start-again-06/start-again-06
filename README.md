@@ -52,6 +52,35 @@ Currently working at Tvasta Manufacturing Solutions Private Limited, contributin
 
 ---
 
+## Mentorship, Advisory & Knowledge Sharing
+
+### [Topmate – Anjan Mahapatra](https://topmate.io/anjan_mahapatra10)
+
+<p align="center">
+  <a href="https://topmate.io/anjan_mahapatra10">
+    <img src="https://img.shields.io/badge/Connect%20with%20me-Topmate.io-blue?style=for-the-badge" alt="Connect on Topmate" />
+  </a>
+</p>
+
+Sharing knowledge, practical insights, and professional perspectives with aspiring professionals, students, product enthusiasts, and early-stage builders.
+
+My interests span the intersection of engineering, technology, product management, artificial intelligence, business strategy, and finance.
+
+Through mentorship and knowledge sharing, I aim to contribute to learning, career development, problem-solving, and the development of technology-driven products and businesses.
+
+**Areas of Interest:**
+
+- **Product Management:** Product discovery, ideation, user research, product strategy, PRDs, roadmaps, MVP development, and feature prioritization.
+- **Technology & AI/ML:** Artificial intelligence, machine learning, LLMs, SLMs, agentic AI, and technology-driven product development.
+- **Engineering & Research:** Computational engineering, scientific machine learning, research methodology, and interdisciplinary innovation.
+- **Business & Strategy:** Business operations, growth strategy, go-to-market planning, commercial evaluation, and startup development.
+- **Finance & Investment:** Financial analysis, investment fundamentals, portfolio performance, and business financial modelling.
+- **Career Development:** Product management career exploration, interdisciplinary career paths, professional development, and industry perspectives.
+
+**Connect with me:** [topmate.io/anjan_mahapatra10](https://topmate.io/anjan_mahapatra10)
+
+---
+
 ## Entrepreneurial Ventures
 
 *Building own three venture-backed startups in high-growth markets — something I am fond of apart from the regular job.*
@@ -70,7 +99,7 @@ A technology-first tax and financial consulting platform.
 
 An AI-powered multilingual voice platform automating customer engagement at scale.
 
-*Stage: Government Approval Stage (HIPAA)*
+*Stage: Product Development*
 
 ### 3. Humrahi
 
@@ -130,9 +159,9 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 
 ---
 
-## Publications
+# Publications
 
-### 1. Book Publication
+## 1. Book Publication
 
 **Soch to Scale: Thinking, Decisions & Strategy in Product Management**
 
@@ -141,7 +170,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 
 ---
 
-### 2. Journal Publications
+## 2. Journal Publications
 
 **1. [Suspension Dynamics of Droplets in Acoustic and Gravitational Fields](https://doi.org/10.1103/PhysRevFluids.10.063602)**
 
@@ -165,7 +194,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 
 ---
 
-### 3. Conference Publications
+## 3. Conference Publications
 
 **1. [Optimal Transport PINNs: A Data-Efficient Approach to High-Fidelity Turbulence Modeling](https://www.researchgate.net/publication/392514084_Optimal_Transport_PINNs_A_Data-Efficient_Approach_to_High-Fidelity_Turbulence_Modeling)**
 
@@ -229,7 +258,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 
 ---
 
-### 4. Book Chapter Publications
+## 4. Book Chapter Publications
 
 **1. [Sustainable Green Lubricants](https://doi.org/10.1201/9781003535447-2)**
 
@@ -279,6 +308,8 @@ Looking forward to collaborating and learning from this amazing community! 🚀
 Reach out to me and let me know how I can assist you in making your day brighter and better. I would love to serve, guide, or collaborate with any passionate individual working or seeking to work in similar areas, or requiring a skill set that I can offer.
 
 **Email:** anjanmahapatra10@gmail.com
+
+**Topmate:** [topmate.io/anjan_mahapatra10](https://topmate.io/anjan_mahapatra10)
 
 ---
 
