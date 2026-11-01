@@ -99,7 +99,7 @@ A technology-first tax and financial consulting platform.
 
 An AI-powered multilingual voice platform automating customer engagement at scale.
 
-*Stage: Product Development*
+*Stage: Government Approval Stage (HIPAA)*
 
 ### 3. Humrahi
 
