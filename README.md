@@ -17,14 +17,14 @@ Currently working at Tvasta Manufacturing Solutions Private Limited - Founder's 
 
 **Reviewer Details (Journals)**:
 
-*Reviewer, American Physical Society (APS)  
- Reviewer, Springer Nature – Mechanical Engineering Track  
- Reviewer, International Journal of Finance, Accounting and Risk Management (IJFARM)*
+*Reviewer, American Physical Society (APS) - Till Present
+ Reviewer, Springer Nature – Mechanical Engineering Track - Till Present 
+ Reviewer, International Journal of Finance, Accounting and Risk Management (IJFARM) - Till Present*
 
  **Reviewer Details (Conferences)**:
 
- *Reviewer, NeurIPS (Conference on Neural Information Processing Systems)  
- Reviewer, International Conference on Advanced Computing Technologies (ICoACT 2027)*
+ *Reviewer, NeurIPS (Conference on Neural Information Processing Systems) 
+  Reviewer, International Conference on Advanced Computing Technologies (ICoACT 2027)*
  
 
 Current Focus:
