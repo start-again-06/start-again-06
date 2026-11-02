@@ -175,7 +175,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 **1. [Suspension Dynamics of Droplets in Acoustic and Gravitational Fields](https://doi.org/10.1103/PhysRevFluids.10.063602)**
 
 - Authors: Jeyapradhap Thirisangu, Anjan Mahapatra*, Karthick Subramani.
-- Journal: *Physical Review Fluids*.
+- Journal: *Physical Review Fluids, American Physical Society*.
 - Volume: 10, Article 063602.
 - DOI: [10.1103/PhysRevFluids.10.063602](https://doi.org/10.1103/PhysRevFluids.10.063602).
 - Publication Date: June 2025.
