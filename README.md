@@ -281,7 +281,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 - Authors: Arun Kumar Bambam, Prameet Vats, Anjan Mahapatra*.
 - Book: *Fundamentals and Applications of Nanofluids*.
 - Publisher: Elsevier.
-- DOI: 10.1016/B978-0-443-44502-6.00020-7.
+- DOI: [10.1016/B978-0-443-44502-6.00020-7](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443445026000207?via%3Dihub).
 - Publication Date: August 2026.
 
 **4. Ethics, Policy, and Governance in Sustainable Manufacturing**
