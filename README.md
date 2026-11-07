@@ -183,7 +183,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 **2. Droplet Dynamics and Control in Microfluidic Platform for Enhanced System Design**
 
 - Authors: Anjan Mahapatra*, Rithanya Raj.
-- Journal: *Frontiers in Lab on a Chip Technologies – Micro- and Nano-fluidics*, Frontiers.
+- Journal: *Frontiers in Lab on a Chip Technologies – Micro- and Nano-fluidics*, Frontiers.(Special Issue)
 - Status: Accepted and Under Publication.
 
 **3. [Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework](https://www.researchgate.net/publication/404188935_Pricing_Strategy_in_the_Manufacturing_Sector_An_Integrated_Modeling_Framework?channel=doi&linkId=69ecb2b1a18fd41a39ed762c&showFulltext=true)**
@@ -191,6 +191,12 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 - Author: Anjan Mahapatra*.
 - Journal: *American Journal of Operations Management and Information Systems*, Science Publishing Group.
 - Status: Accepted and Under Publication.
+
+**4. Hardware-Efficient Physics-Informed Deep Learning for High-Performance FPGA Implementation**
+
+- Authors: Rithanya Raj, Anjan Mahapatra, Manuraj Vanamala.  
+- Journal: *Computer Methods in Applied Mechanics and Engineering*, Elseiver.  
+- Status: Under Review.
 
 ---
 
