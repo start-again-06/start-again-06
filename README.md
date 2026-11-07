@@ -186,7 +186,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 - Journal: *Frontiers in Lab on a Chip Technologies – Micro- and Nano-fluidics*, Frontiers.(Special Issue)
 - Status: Accepted and Under Publication.
 
-**3. [Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework](https://www.researchgate.net/publication/404188935_Pricing_Strategy_in_the_Manufacturing_Sector_An_Integrated_Modeling_Framework?channel=doi&linkId=69ecb2b1a18fd41a39ed762c&showFulltext=true)**
+**3.  Pricing Strategy in the Manufacturing Sector: An Integrated Modeling Framework**
 
 - Author: Anjan Mahapatra*.
 - Journal: *American Journal of Operations Management and Information Systems*, Science Publishing Group.
