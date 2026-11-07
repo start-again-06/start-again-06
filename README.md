@@ -194,7 +194,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 
 **4. Hardware-Efficient Physics-Informed Deep Learning for High-Performance FPGA Implementation**
 
-- Authors: Rithanya Raj, Anjan Mahapatra, Manuraj Vanamala.  
+- Authors: Rithanya Raj, Anjan Mahapatra*, Manuraj Vanamala.  
 - Journal: *Computer Methods in Applied Mechanics and Engineering*, Elseiver.  
 - Status: Under Review.
 
