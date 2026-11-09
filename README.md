@@ -249,7 +249,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 **7. An Autonomous Multimodal Agentic AI Framework for Personalized Physiological Monitoring and Early Health-Risk Assessment Using Wearable Sensors**
 
 - Authors: Rithanya Raj, Anjan Mahapatra*.
-- Conference: IEEE INDICON.
+- Conference: 23rd IEEE India Council International Conference (INDICON 2026).
 - Institution: Sri Sai Ram College of Engineering, Tamil Nadu.
 - Date: December 2026.
 - Status: Accepted; To be Presented.
