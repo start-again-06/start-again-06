@@ -44,21 +44,16 @@ His focus lies in translating complex technical and business concepts into pract
 
 ## Professional Experience
 
-**Tvasta Manufacturing Solutions Private Limited - Physical AI-based Robotics and Automation Construction Company - backed by multiple VC - in the past and currently**
+**Tvasta Manufacturing Solutions Private Limited** — Physical AI, Robotics & Automation for Construction | VC-Backed
 
 *Founder's Office — Product, Revenue, Growth, Strategy & Business Operations*
 
-Currently working at Tvasta Manufacturing Solutions Private Limited, contributing across product, revenue, growth, and business operations.
+Contributing to the growth and business leadership of Tvasta's 3D printing vertical across:
 
-- Business Leadership & P&L Management: Leading the 3D printer vertical at Tvasta, overseeing category-level business operations, profitability, revenue management, cost optimisation, and overall P&L performance.
-- Category Management: Managing the printer product portfolio, coordinating cross-functional teams, and driving business growth through operational and commercial strategies.
-- Technical & Client Engagement: Delivering technical presentations to prospective clients, understanding business and engineering requirements, translating client expectations into technical specifications, and documenting project requirements.
-- Digital Transformation & ERP Implementation:  
-  Spearheaded the internal implementation of three software solutions:
-  1. ERP / SAP-based IMS: Supporting inventory management, material tracking, and supply chain operations.
-  2. Internal CRM: Developed and introduced an in-house CRM solution to streamline customer relationship management and business development workflows.
-  3. Agentic AI Implementation: Introduced agent-based automation to improve internal workflows and operational efficiency.
-
+- **Business & P&L Management:** Leading the 3D printer vertical, driving revenue, profitability, cost optimisation, and category-level performance.
+- **Product & Category Management:** Managing the product portfolio, cross-functional coordination, and commercial strategy.
+- **Client & Technical Engagement:** Translating client requirements into technical specifications, proposals, and project documentation.
+- **Digital Transformation:** Spearheading ERP/SAP-based inventory management, internal CRM implementation, and agentic AI-driven workflow automation.
 ---
 
 ## Mentorship, Advisory & Knowledge Sharing
@@ -111,7 +106,7 @@ Through mentorship and knowledge sharing, I aspire to contribute to **learning, 
 
 A technology-first tax and financial consulting platform.
 
-*Stage: Pre-Series Funding Stage | Stealth Mode*. - $600k USD we did it, let's go bhaiya (are we coming out of stealth - NAHHHHHH) !!
+*Stage: Pre-Series Funding Stage | Stealth Mode*. - $600k USD we did it, let's go bhaiya - (are we coming out of stealth - NAHHHHHH) !!
 
 ### 2. Arogyavani – Doctor Talks
 
