@@ -1,3 +1,6 @@
+
+<small>
+  
 # Hi GitHub Community! 👋
 
 <h1 align="center">Anjan Mahapatra</h1>
@@ -347,3 +350,4 @@ Reach out to me and let me know how I can assist you in making your day brighter
 <p align="center">
   <i>Engineering ideas. Building intelligent systems. Creating meaningful impact.</i>
 </p>
+</small>
