@@ -179,7 +179,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 
 # Publications
 
-## 1. Book Publication
+## 1. Book Publication - Pre-print is out soon!!
 
 **Soch to Scale: Thinking, Decisions & Strategy in Product Management**
 
