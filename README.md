@@ -80,7 +80,7 @@ My interests lie at the intersection of **Engineering, Technology, Product Manag
 - **Product Management:** 5/5
 - **Artificial Intelligence:** Beyond ratings — I'm fascinated by everything AI can make possible.
 - **Business Strategy & Go-to-Market (GTM):** 5/5
-- **Finance & Investment Management:** 5/5 *(CFA Level I, CIPM Level I, FRM Part I, and AIFM Candidate — not bad for a Mechanical Engineering graduate! :))*
+- **Finance & Investment Management:** 5/5 *(CFA Level I, CIPM Level I, FRM Part I Candidate, and AIFM Candidate — not bad for a Mechanical Engineering graduate! :))*
 
 I enjoy exploring how these disciplines converge to transform ideas into viable products, scalable businesses, and meaningful technological solutions.
 
