@@ -44,11 +44,20 @@ His focus lies in translating complex technical and business concepts into pract
 
 ## Professional Experience
 
-**Tvasta Manufacturing Solutions Private Limited**
+**Tvasta Manufacturing Solutions Private Limited - Physical AI-based Robotics and Automation Construction Company - backed by multiple VC - in the past and currently**
 
-*Founder's Office — Product, Revenue, Growth & Business Operations*
+*Founder's Office — Product, Revenue, Growth, Strategy & Business Operations*
 
 Currently working at Tvasta Manufacturing Solutions Private Limited, contributing across product, revenue, growth, and business operations.
+
+- Business Leadership & P&L Management: Leading the 3D printer vertical at Tvasta, overseeing category-level business operations, profitability, revenue management, cost optimisation, and overall P&L performance.
+- Category Management: Managing the printer product portfolio, coordinating cross-functional teams, and driving business growth through operational and commercial strategies.
+- Technical & Client Engagement: Delivering technical presentations to prospective clients, understanding business and engineering requirements, translating client expectations into technical specifications, and documenting project requirements.
+- Digital Transformation & ERP Implementation:  
+  Spearheaded the internal implementation of three software solutions:
+  1. ERP / SAP-based IMS: Supporting inventory management, material tracking, and supply chain operations.
+  2. Internal CRM: Developed and introduced an in-house CRM solution to streamline customer relationship management and business development workflows.
+  3. Agentic AI Implementation: Introduced agent-based automation to improve internal workflows and operational efficiency.
 
 ---
 
@@ -64,9 +73,20 @@ Currently working at Tvasta Manufacturing Solutions Private Limited, contributin
 
 Sharing knowledge, practical insights, and professional perspectives with aspiring professionals, students, product enthusiasts, and early-stage builders.
 
-My interests span the intersection of engineering, technology, product management, artificial intelligence, business strategy, and finance.
+### Areas of Interest
 
-Through mentorship and knowledge sharing, I aim to contribute to learning, career development, problem-solving, and the development of technology-driven products and businesses.
+My interests lie at the intersection of **Engineering, Technology, Product Management, Artificial Intelligence, Business Strategy, and Finance.**
+
+- **Engineering:** 4/5
+- **Technology:** 4/5
+- **Product Management:** 5/5
+- **Artificial Intelligence:** Beyond ratings — I'm fascinated by everything AI can make possible.
+- **Business Strategy & Go-to-Market (GTM):** 5/5
+- **Finance & Investment Management:** 5/5 *(CFA Level I, CIPM Level I, FRM Part I, and AIFM Candidate — not bad for a Mechanical Engineering graduate! :))*
+
+I enjoy exploring how these disciplines converge to transform ideas into viable products, scalable businesses, and meaningful technological solutions.
+
+Through mentorship and knowledge sharing, I aspire to contribute to **learning, career development, problem-solving, and the creation of technology-driven products and businesses.**
 
 **Areas of Interest:**
 
@@ -81,7 +101,7 @@ Through mentorship and knowledge sharing, I aim to contribute to learning, caree
 
 ---
 
-## Entrepreneurial Ventures
+## Entrepreneurial Ventures (When there are no Mosagera's around you!!)
 
 *Building own three venture-backed startups in high-growth markets — something I am fond of apart from the regular job.*
 
@@ -91,7 +111,7 @@ Through mentorship and knowledge sharing, I aim to contribute to learning, caree
 
 A technology-first tax and financial consulting platform.
 
-*Stage: Pre-Series Funding Stage | Stealth Mode*
+*Stage: Pre-Series Funding Stage | Stealth Mode*. - $600k USD we did it, let's go bhaiya (are we coming out of stealth - NAHHHHHH) !!
 
 ### 2. Arogyavani – Doctor Talks
 
@@ -99,7 +119,7 @@ A technology-first tax and financial consulting platform.
 
 An AI-powered multilingual voice platform automating customer engagement at scale.
 
-*Stage: Government Approval Stage (HIPAA)*
+*Stage: Government Approval Stage (HIPAA)* - when your sister is too lazy :) !!
 
 ### 3. Humrahi
 
@@ -109,7 +129,7 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 
 *Stage: Product Development*
 
-**Are we going for YC? Definitely Yes.**
+**Are we going for YC? Definitely Yes.** - Ah haan next round!!, let's go!!
 
 ---
 
@@ -123,8 +143,8 @@ An AI-powered multilingual voice platform providing personalized assistance and 
 
 ### Conference Reviewer
 
-- Reviewer, NeurIPS (Conference on Neural Information Processing Systems).
-- Reviewer, International Conference on Advanced Computing Technologies (ICoACT 2027).
+- Reviewer, NeurIPS (Conference on Neural Information Processing Systems), Syndey, Australia 2026.
+- Senior Reviewer, International Conference on Advanced Computing Technologies (ICoACT 2027), PSR Engineering College, Sattur, Virudhunagar. 
 
 ---
 
