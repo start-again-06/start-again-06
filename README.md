@@ -99,7 +99,7 @@ Through mentorship and knowledge sharing, I aspire to contribute to **learning, 
 
 ---
 
-## Entrepreneurial Ventures (When there are no Mosagera's around you!!)
+## Entrepreneurial Ventures 
 
 *Building own three venture-backed startups in high-growth markets — something I am fond of apart from the regular job.*
 
